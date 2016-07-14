@@ -4,7 +4,7 @@ An implementation of Gradient Descent by **Tiancheng Gong**
 ***
 ## Data
 Original Data: Download raw data from [UCI Airfoil Self-Noise](http://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise/) as *dataset.csv*\
-Processed Data: Adjust the value of attributes to the same scale [1, 100] and save as *dataset1.csv*
+Processed Data: Adjust the value of attributes to the same scale [1, 100] and save as *dataset1.csv*\
 | No. of Instances | No. of Attributes | Attribute Characteristics | Associated Tasks |
 |:----------------:|:-----------------:|:-------------------------:|:----------------:|
 | 1503             | 6                 | Real                      | Regression       |
